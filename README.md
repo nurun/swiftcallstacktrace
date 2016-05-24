@@ -2,7 +2,7 @@
 This is a utility class for parsing the current call stack in scope. This can be very useful for logging so that you automatically prefix logs with code contextual information.
 
 Here is a code sample that utilises the CallStackAnalyser with comments indicating the output.
-```
+```swift
 import UIKit
 
 class ViewController: UIViewController {
